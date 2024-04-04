@@ -1,0 +1,129 @@
+@media (max-width: 1400px) {
+    .section__box-lg-imgright1{
+        padding-bottom: 157px; 
+    }
+}
+
+@media (max-width: 1200px) {
+    .section__slider-h1{
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+
+    .section__box-lg-imgright1{
+        padding-bottom: 206px; 
+    }
+}
+
+
+@media (max-width: 991px){
+    .header__menu {
+        margin-right: 50px;
+        font-size: 15px;
+    
+    }
+
+    .new__img-row{
+        margin-bottom: 25px;
+    }
+    
+    .section__slider-h1{
+        font-size: 32px;
+    }
+
+    .section__slider-text{
+        
+        margin-left: 40px;
+    }
+
+    .overg{
+        margin-bottom: 40px;
+    }
+
+    .footer__down-img{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-bottom: 30px;
+    }
+
+    .ruits__o{
+        margin: auto;
+    }
+
+
+}
+    
+    @media (max-width: 767px) {
+        .section__slider-text{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            margin-left: 0;
+        }
+
+       .footer__end-h2{
+           font-size: 30px;
+       }
+
+        .section__box-lg-h3{
+             font-size: 32px;
+             margin-bottom: 15px;
+        }
+
+        .col__p{
+            margin-top: 25px;
+        }
+
+        .section__body-h2{
+            font-size: 30px;
+        }
+
+        .section__slider-h1{
+            text-align: center;
+        }
+
+        .section__slider-p{
+            text-align: center;
+        }
+
+        .img_yy{
+            margin-bottom: 25px;
+        }
+    }
+
+    @media (max-width: 700px) {
+        /* .img_yy{
+            margin-bottom: 25px;
+        } */
+    }
+
+
+    @media (max-width: 580px) {
+        .new__img-row{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+
+        .section__footer-h2{
+            font-size: 30px;
+        }
+    }
+
+    @media (max-width: 470px) {
+        .section__do-h2{
+            font-size: 28px;
+        }
+
+        .footer__c{
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+
+  
